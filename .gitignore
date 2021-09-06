@@ -1,0 +1,47 @@
+# Compiled object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Temporary ui files
+*.ui~
+*.ui#
+
+# Common build directory
+build/
+
+# Build artifacts
+src/VERSION
+src/Version.hpp
+src/Resources.c
+
+# IDE folders
+.idea/
+.vscode/
+
+# Build folders
+cmake-build-debug
+debian/.debhelper
+debian/messages-for-linux
+obj-x86_64-linux-gnu

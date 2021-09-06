@@ -1,0 +1,13 @@
+Source: messages-for-linux
+Section: web
+Priority: optional
+Maintainer: Arpan Sarkar <contact@arpan.dev>
+Build-Depends: debhelper (>=10), cmake, pkg-config, libappindicator3-dev, libgtkmm-3.0-dev, libwebkit2gtk-4.0-dev
+Standards-Version: 4.5.1
+Homepage: https://github.com/Bloody-Badboy/messages-for-linux
+Rules-Requires-Root: no
+
+Package: messages-for-linux
+Architecture: any
+Depends: libgtkmm-3.0-1v5, libwebkit2gtk-4.0-37, libappindicator3-1
+Description: An unofficial messages desktop application for linux

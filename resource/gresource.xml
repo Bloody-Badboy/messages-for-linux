@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gresources>
+  <gresource prefix="main">
+    <file>ui/MainWindow.ui</file>
+    <file>ui/ShortcutsWindow.ui</file>
+    <file>image/icons/hicolor/16x16/apps/messages-for-linux.png</file>
+    <file>image/icons/hicolor/32x32/apps/messages-for-linux.png</file>
+    <file>image/icons/hicolor/64x64/apps/messages-for-linux.png</file>
+    <file>image/icons/hicolor/128x128/apps/messages-for-linux.png</file>
+    <file>image/tray/messages-for-linux-tray.png</file>
+    <file>image/tray/messages-for-linux-tray-attention.png</file>
+  </gresource>
+</gresources>

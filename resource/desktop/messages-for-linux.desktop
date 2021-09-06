@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Version=1.0
+Name=Messages for Linux
+GenericName=Unofficial Messages client
+Comment=An unofficial Google Messages desktop application for linux
+Exec=messages-for-linux
+Icon=messages-for-linux
+Categories=GTK;GNOME;Network;
+Keywords=chat;im;messaging;messenger;sms;messages;messages-desktop;
